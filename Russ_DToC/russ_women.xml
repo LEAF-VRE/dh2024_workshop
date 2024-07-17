@@ -2558,14 +2558,10 @@
 			<pb
 				facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue04/images/Heresies_04_017.jpg"
 				n="17" xml:id="img_0017"/>
-			<div>
-				<head>Women Talking, Women Thinking</head>
-				<byline><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270"
-						cert="high" role="aud" type="real">Joanna Russ</persName></byline>
-				<note type="researchNote">*Various excerpts from the forthcoming novel, On Strike
-					Against God, to be published in the spring of 1978 by Out and Out Books.</note>
-			</div>
-			<div>
+			<div cert="high" org="composite" part="Y" sample="initial" type="essay" xml:space="default">
+				<head xml:id="head_p1c_hn5_31c">Women Talking, Women Thinking</head>
+				<byline xml:id="byline_r1c_hn5_31c"><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270" cert="high" role="aud" type="real" xml:id="persName_x1c_hn5_31c">Joanna Russ</persName></byline>
+				
 			<p xml:id="p_s1c_hn5_31c">What did we talk about? I don't remember. We talked so
 				hard and sat so still that I got cramps in my knees. We had too many cups of tea
 				and then didn't want to leave the table to go to the bathroom because we didn’t
