@@ -7,7 +7,12 @@ This repository for LEAF Commons: Using Linked Tools for Digital Editorial Produ
 * Access the [Dynamic Table of Contexts Commons](https://dtoc.leaf-vre.org/)
 * Access the [LEAF-VRE site](https://www.leaf-vre.org/)
 
+The working text included herein is by Joanna Russ, "Women Talking, Women Thinking" from issue 4 of the Heresies jounral, "Women's Traditional Arts: The Politics of Aesthetics." (1978)
+This text is part of [The Heresies Project](https://leaf.bucknell.edu/heresies)
+
 # Questions? 
 Communicate with the LEAF team:
 * [Slack](https://leaf-vre.slack.com)
 * Twitter-as-was: @LEAF_VRE
+
+LEAF Commons tools are licensed under the [GNU Affero General Public License v3.0](https://gitlab.com/calincs/cwrc/leaf-writer/leaf-writer/-/blob/main/LICENSE)
