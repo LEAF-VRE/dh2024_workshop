@@ -1,4 +1,4 @@
-# dh2024 Workshop
+# DH2024 Workshop
 Workshop materials for the DH2024 LEAF Commons workshop.
 
 This repository for LEAF Commons: Using Linked Tools for Digital Editorial Production contains files that can be used in LEAF-Writer and the Dynamic Table of Contexts.
@@ -10,7 +10,7 @@ This repository for LEAF Commons: Using Linked Tools for Digital Editorial Produ
 The working text included herein is by Joanna Russ, "Women Talking, Women Thinking" from issue 4 of the Heresies jounral, "Women's Traditional Arts: The Politics of Aesthetics." (1978)
 This text is part of [The Heresies Project](https://leaf.bucknell.edu/heresies)
 
-# Questions? 
+## Questions? 
 Communicate with the LEAF team:
 * [Slack](https://leaf-vre.slack.com)
 * Twitter-as-was: @LEAF_VRE
