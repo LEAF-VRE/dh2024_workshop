@@ -1,6 +1,6 @@
 {
     "inputs": [
-        "https://raw.githubusercontent.com/LEAF-VRE/dtoc_training/main/Russ_Heresies/russ_women.xml"
+        "https://raw.githubusercontent.com/LEAF-VRE/dh2024_workshop/main/Russ_DToC/russ_women.xml"
     ],
     "documents": "//div[@type='essay'or@type='biography']",
     "ignoreNamespace": true,
