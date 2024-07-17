@@ -9,6 +9,5 @@ This repository for LEAF Commons: Using Linked Tools for Digital Editorial Produ
 
 # Questions? 
 Communicate with the LEAF team:
-* [Email](leaf@leaf-vre.org)
 * [Slack](https://leaf-vre.slack.com)
 * Twitter-as-was: @LEAF_VRE
